@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<errors>
+	<error code="1062">Duplicate entry 'Unlimited Love-Red Hot Chili Peppers-VINYL' for key 'album.Check_CD'</error>
+	<error code="1265">Data truncated for column 'MATERIAL' at row 1</error>
+	<error code="1265">Data truncated for column 'CD_FORMAT' at row 1</error>
+	<error code="1264">Data truncation: Out of range value for column 'PRICE' at row 1</error>
+	<error code="1264">Data truncation: Out of range value for column 'PRICE' at row 1</error>
+	<error code="1264">Data truncation: Out of range value for column 'PRICE' at row 1</error>
+</errors>

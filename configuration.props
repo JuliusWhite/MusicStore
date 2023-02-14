@@ -1,0 +1,7 @@
+#Configuration file.
+#Tue Jun 07 12:08:29 CEST 2022
+password=admin
+port=3307
+url=jdbc\:mysql\://localhost
+db=musicstore
+username=admin
