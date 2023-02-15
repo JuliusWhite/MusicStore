@@ -13,3 +13,5 @@ Once the database exists, the program lets you:
 - Show the most sold 5 articles.
 
 The database have two types of articles: albums and posters. In order to addapt this to Java, I use inheritance, gfrom a father class `Article.java`.
+
+When the program chatches a SQL exception, it writes it down in a XML file, named `error.xml`, wich will be located inn the root folder. Each item in the xml file writes the message of the exception, the exception number and the 
